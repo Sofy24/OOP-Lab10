@@ -60,6 +60,7 @@ public final class ConcurrentGUI extends JFrame {
                 agent.stopCounting();
             }
         });
+
     }
 
     /*
